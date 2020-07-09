@@ -1,6 +1,6 @@
 ### Salut! 👋
 
-I'm Seun, pronounced (SHAY-OON). I'm a Front-End engineer :man_technologist: and WindRunner :wind_chime:. I love building user interfaces , learning new stuff :books: and ~introducing breaking changes~.
+I'm Seun, pronounced (SHAY-OON). I'm a Front-End engineer :man_technologist: and WindRunner :wind_chime:. I love building user interfaces :smile:, learning new stuff :books: and ~introducing breaking changes~.
 
 I'm also an avid reader :nerd_face:, a wannabe writer :pencil: and a champion at karaoke :microphone:. No, seriously. I'm Nigerian :nigeria:, but je peux parler un peu de Français.
 
