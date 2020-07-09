@@ -2,7 +2,7 @@
 
 I'm Seun, pronounced (SHAY-OON). I'm a Front-End engineer :man_technologist: and WindRunner :wind_chime:. I love building user interfaces :smile:, learning new stuff :books: and ~introducing breaking changes~.
 
-I'm also an avid reader :nerd_face:, a wannabe writer :pencil: and a champion at karaoke :microphone:. No, seriously. I'm Nigerian :nigeria:, but je peux parler un peu de Français.
+I'm also an avid reader :nerd_face:, a wannabe writer :pencil: and a champion at karaoke :microphone:. No, seriously. I'm Nigerian :nigeria:, but je peux parler un peu de Français :fr:.
 
 If you'd like to talk about tech 💬, the Knights Radiant :guardsman: or really anything, you can send a DM on Twitter :bird: and I'd be happy to answer before Salas :moon: sets.
 
