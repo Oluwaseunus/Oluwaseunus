@@ -1,6 +1,10 @@
 ### Salut! 👋
 
-I'm Seun, pronounced (SHAY-OON). I'm a Front-End engineer and WindRunner. I love building user interfaces, learning new stuff and ~introducing breaking changes~. I'm also an avid reader, a wannabe writer and a champion at karaoke. No, seriously. I'm Nigerian, but je peux parler un peu de Français. If you'd like to talk about tech, the Knights Radiant or really anything, you can send a DM on Twitter and I'd be happy to answer before Salas sets.
+I'm Seun, pronounced (SHAY-OON). I'm a Front-End engineer :man_technologist: and WindRunner :wind_chime:. I love building user interfaces , learning new stuff :books: and ~introducing breaking changes~.
+
+I'm also an avid reader :nerd_face:, a wannabe writer :pencil: and a champion at karaoke :microphone:. No, seriously. I'm Nigerian :nigeria:, but je peux parler un peu de Français.
+
+If you'd like to talk about tech 💬, the Knights Radiant :guardsman: or really anything, you can send a DM on Twitter :bird: and I'd be happy to answer before Salas :moon: sets.
 
 ありがとうございました！
 
