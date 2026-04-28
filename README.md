@@ -30,7 +30,7 @@ More to share soon.
 
 - [**DocIntel**](https://github.com/Oluwaseunus/document-analyser) — *([live](https://document-analyser-nine.vercel.app/))* AI-powered document intelligence with LLM streaming.
 - **PromptBench** — Multi-provider LLM evaluation tooling. *(in progress)*
-- [**Reflex**](https://github.com/Oluwaseunus/reflex) — macOS Spotify enhancement layer. *([in progress](https://oluwaseunus.github.io/reflex-landing-page))*
+- **Reflex** — macOS Spotify enhancement layer. *([in progress](https://oluwaseunus.github.io/reflex-landing-page))*
 
 ---
 
